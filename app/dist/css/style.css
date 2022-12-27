@@ -509,6 +509,7 @@ button:hover, .button:hover {
 }
 .footer__socials {
   margin-bottom: 1.875rem;
+  font-size: 0.9365rem;
 }
 .footer__socials a {
   display: inline-block;
@@ -521,6 +522,7 @@ button:hover, .button:hover {
   flex-direction: column;
   align-items: center;
   line-height: 2.25;
+  font-size: 0.9365rem;
 }
 @media (min-width: 64rem) {
   .footer__links.col1 {
@@ -538,6 +540,14 @@ button:hover, .button:hover {
     margin-bottom: 0rem;
   }
 }
+@media (min-width: 64rem) {
+  .footer__cta {
+    text-align: right;
+  }
+}
 .footer__cta a.button {
   margin-bottom: 1.875rem;
+}
+.footer__copyright {
+  font-size: 0.9365rem;
 }/*# sourceMappingURL=style.css.map */
