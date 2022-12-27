@@ -295,7 +295,7 @@ button:hover, .button:hover {
 }
 .hero__image {
   position: relative;
-  background-image: url("../../images/image-mockups.png");
+  background-image: url("images/image-mockups.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -321,7 +321,7 @@ button:hover, .button:hover {
     position: absolute;
     width: 150%;
     height: 100%;
-    background-image: url("../../images/bg-intro-desktop.svg");
+    background-image: url("images/bg-intro-desktop.svg");
     background-size: 122%;
     background-position: 0% 83%;
     background-repeat: no-repeat;
@@ -332,7 +332,7 @@ button:hover, .button:hover {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url("../../images/image-mockups.png");
+  background-image: url("images/image-mockups.png");
   background-size: 93%;
   background-repeat: no-repeat;
   background-position: center 90%;
