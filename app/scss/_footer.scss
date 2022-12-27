@@ -55,6 +55,7 @@
              @include breakpoint-up(large){
                 display: flex;
                 align-items: center;
+                justify-content: space-between;
              }
         }
         &.col2{

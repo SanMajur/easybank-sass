@@ -528,6 +528,7 @@ button:hover, .button:hover {
   .footer__links.col1 {
     display: flex;
     align-items: center;
+    justify-content: space-between;
   }
 }
 .footer__links.col2 {
